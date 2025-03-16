@@ -1,0 +1,20 @@
+import pandas as pd 
+import numpy as np 
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.express as px
+import plotly.graph_objects as go
+
+# What is the range of Tesla’s daily high and low prices?
+
+range=df1["High"]-df1["Low"]
+
+  # What is the skewness and kurtosis of Tesla’s clsoing prices?
+
+closing_price_skewness=stats.skew(df1["Close"])
+  
+closing_price_kurtosis=stats.kurtosis(df1["Close"])
+  
+print("skewnwss:" ,closing_price_skewness)
+  
+print("kurtosis",closing_price_kurtosis)
