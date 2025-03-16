@@ -51,3 +51,41 @@ Technologies Used
 ✅ Statsmodels for statistical testing
 
 ✅ Plotly for interactive visualizations
+
+
+ # 📊 Visualizations graph 
+ How has Tesla's stock price changed over time? (Line Chart)
+ ![image](https://github.com/user-attachments/assets/caca3e39-a157-4581-b5f1-26cd8f3a4258)
+
+What is the distribution of Tesla's daily returns? (Histogram & KDE Plot)
+![image](https://github.com/user-attachments/assets/ee3d96f2-a2df-4d15-90ef-31f8d6418374)
+
+Is there a relationship between trading volume and daily price changes? (Scatter Plot)
+![image](https://github.com/user-attachments/assets/4fd66391-90c8-4fd2-a3b6-79f7d73fe19f)
+
+"How does Tesla’s stock price trend over time using 7-day and 30-day moving averages?"
+![image](https://github.com/user-attachments/assets/e2762397-7ab1-437f-b23b-9a912e07851f)
+
+Can we visualize a candlestick chart for TCS stock?
+![image](https://github.com/user-attachments/assets/2db7fc9c-6d85-48f8-a518-793ab1b475b4)
+
+# What is the correlation between different stock metrics (Open, Close, High, Low, Volume)? (Heatmap)
+![image](https://github.com/user-attachments/assets/fd6c8382-5cdf-473b-b950-7246c3b89f1b)
+
+# Do Tesla's daily returns follow a normal distribution? (Q-Q Plot)
+![image](https://github.com/user-attachments/assets/2bf7ed74-1cbc-40e0-aa19-f6a7cadb4bc3)
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
