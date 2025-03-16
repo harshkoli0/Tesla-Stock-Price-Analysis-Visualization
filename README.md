@@ -31,7 +31,7 @@ Analyzed the relationship between Open, Close, High, Low, and Volume using a hea
 
 Examined the correlation between trading volume and daily price changes.
 
-📊 Visualizations
+# 📊 Visualizations
 
 Stock price trend over time (Line Chart).
 
