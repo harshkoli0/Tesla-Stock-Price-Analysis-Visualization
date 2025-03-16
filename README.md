@@ -45,6 +45,9 @@ Candlestick chart for Tesla’s stock.
 
 Technologies Used
 ✅ Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn,plotly)
+
 ✅ Jupyter Notebook for interactive analysis
+
 ✅ Statsmodels for statistical testing
+
 ✅ Plotly for interactive visualizations
