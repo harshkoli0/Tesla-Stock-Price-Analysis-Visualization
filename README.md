@@ -1,7 +1,7 @@
 # Tesla-Stock-Price-Analysis-Visualization
 
 # Overview
-This project analyzes Tesla's stock price trends using descriptive statistics, hypothesis testing, probability distributions, and visualizations. The dataset includes historical Tesla stock data, and the analysis explores key insights using Python.
+This project conducts a comprehensive analysis of Tesla's stock price trends using various statistical and analytical techniques. The dataset consists of historical Tesla stock data, including opening price, closing price, high, low, trading volume, and date information. The analysis involves descriptive statistics, hypothesis testing, probability distributions, and advanced visualizations to extract meaningful insights.
 
 # Key Analyses & Insights
 
